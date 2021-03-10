@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@fluentui/web-components": "0.1.8",
+    "@microsoft/fast-colors": "^5.1.0",
+    "@microsoft/fast-element": "^0.17.0",
+    "tslib": "^2.0.1"
+  }
+}
